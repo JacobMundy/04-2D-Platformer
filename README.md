@@ -1,8 +1,8 @@
-# Project Name
+# Project 04-2D Platformer
 
-Context and date
+11/1/2022
 
-Description
+Project for MS
 
 ## Implementation
 Which features you included
@@ -12,4 +12,4 @@ Which features you included
 ## Future Development
 
 ## Created by
-Jason Francis
+Jacob Mundy
