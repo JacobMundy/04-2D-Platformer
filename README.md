@@ -9,6 +9,9 @@ Multiple Levels
 
 Parallax Backgrounds
 
+Enemies and Attacking
+
+Score Tracking with a little twist
 
 ## References
 https://www.kenney.nl/assets/pixel-platformer
