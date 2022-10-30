@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=f8z4x6R7OSM
 
 Parallax Backgrounds Tutorial 
 
+https://docs.godotengine.org/en/stable/
+
 ## Future Development
 None
 
