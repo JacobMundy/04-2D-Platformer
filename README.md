@@ -13,6 +13,8 @@ Enemies and Attacking
 
 Score Tracking with a little twist
 
+Menus and 3 Difficulties (extremely limited change on gameplay)
+
 ## References
 https://www.kenney.nl/assets/pixel-platformer
 
