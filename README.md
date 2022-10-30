@@ -11,10 +11,15 @@ Parallax Backgrounds
 
 ## References
 https://www.kenney.nl/assets/pixel-platformer
+
 Used For Levels and Enemies
+
 https://blackdragon1727.itch.io/16x16-pixel-adventures-character
+
 Character Animations
+
 https://www.youtube.com/watch?v=f8z4x6R7OSM
+
 Parallax Backgrounds Tutorial 
 
 ## Future Development
