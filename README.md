@@ -16,25 +16,28 @@ Score Tracking with a little twist
 Menus and 3 Difficulties (extremely limited change on gameplay)
 
 ## References
-https://www.kenney.nl/assets/pixel-platformer
+
 
 Used For Levels and Enemies
 
-https://blackdragon1727.itch.io/16x16-pixel-adventures-character
+https://www.kenney.nl/assets/pixel-platformer
 
 Character and Character Animations
 
-https://www.youtube.com/watch?v=f8z4x6R7OSM
+https://blackdragon1727.itch.io/16x16-pixel-adventures-character
 
 Parallax Backgrounds Tutorial 
 
-https://docs.godotengine.org/en/stable/
+https://www.youtube.com/watch?v=f8z4x6R7OSM
 
 Godot Documentation
 
-https://www.dafont.com/call-of-ops-duty.font 
+https://docs.godotengine.org/en/stable/
 
 Font Used
+
+https://www.dafont.com/call-of-ops-duty.font 
+
 
 ## Future Development
 None
