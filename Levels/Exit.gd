@@ -20,14 +20,6 @@ func _on_Exit_body_entered(body):
 			Global.current_level = "2_2"
 			Global.score += 50
 		if name == "Exit_to_2_3":
-			var _target = get_tree().change_scene("res://Levels/Level2_3.tscn")
+			var _target = get_tree().change_scene("res://Menus/GameOver.tscn")
 			Global.current_level = "2_3"
 			Global.score += 100
-		if name == "Exit_to_3_1":
-			var _target = get_tree().change_scene("res://Levels/Level3_1.tscn")
-			Global.current_level = "3_1"
-			Global.score += 200
-		if name == "Exit_to_3_2":
-			var _target = get_tree().change_scene("res://Levels/GameOver.tscn")
-			Global.current_level = "3_2"
-			Global.score += 500

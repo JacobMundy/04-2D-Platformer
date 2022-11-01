@@ -9,7 +9,8 @@ var fade_out = ""
 var death_zone = 1000
 
 var score = 5
-var current_level = null
+var deaths = 0
+var current_level = "1_3"
 
 func _physics_process(_delta):
 	if fade == null:

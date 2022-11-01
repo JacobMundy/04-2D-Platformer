@@ -57,10 +57,11 @@ func set_animation(anim):
 
 func die():
 	Global.score -= 5
+	Global.deaths += 1
 	queue_free()
 	var _target = get_tree().change_scene("res://Levels/Level"+ str(Global.current_level) +".tscn")
 
 
 func _on_Attack_Area_body_entered(body):
-	if body.name == "Bat":
+	if "Bat" in body.name:
 		body.die()

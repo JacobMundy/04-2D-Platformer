@@ -9,6 +9,7 @@ var line_of_sight = false
 export var looking_color = Color(0.455,0.753,0.988,0.25)
 export var los_color = Color(0.988,0.753,0.455,0.5)
 
+
 var points = []
 const margin = 1.5
 
@@ -54,7 +55,7 @@ func _on_Area2D_body_entered(body):
 	if body.name == 'Player':
 		body.die()
 		queue_free()
-
+		
 func die():
 	Global.score += 10
 	queue_free()
