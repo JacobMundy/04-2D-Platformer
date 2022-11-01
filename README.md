@@ -4,7 +4,12 @@
 
 Project for MSCH-C220
 
+Created a 2D Platformer Created using Godot 3.5.
+
 ## Implementation
+
+Menus (Main Menu, Pause Menu, Game Over Menu)
+
 Multiple Levels
 
 Parallax Backgrounds
